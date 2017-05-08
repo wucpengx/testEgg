@@ -1,0 +1,8 @@
+{
+  "name": "testEgg",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "egg": "^1.2.1"
+  }
+}
